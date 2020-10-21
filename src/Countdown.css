@@ -1,0 +1,27 @@
+.button{
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 3px 2px;
+    cursor: pointer;
+}
+
+.buttonStart{
+    background-color: #62bae3;
+    width: 100px
+}
+
+.buttonStop{
+    background-color: #e63e25;
+    width: 100px
+}
+
+.buttonReset{
+    background-color: #36bf5f;
+    width: 200px
+}
